@@ -1,4 +1,4 @@
-package com.docker.Trail2;
+package com.Universities;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
